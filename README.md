@@ -1,6 +1,3 @@
-# awesome-ai-curriculum
-
-
 # 📚 Curated List of CS & ML Courses and Resources
 
 This repository contains a curated list of free and open-source resources, including playlists, course websites, and GitHub collections on topics like Computer Science, Artificial Intelligence, Machine Learning, and more.
@@ -16,6 +13,7 @@ This repository contains a curated list of free and open-source resources, inclu
 - [Machine Learning at Berkeley - Playlists](https://www.youtube.com/@machinelearningatberkeley8868/playlists)
 - [DeepMind x UCL Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 - [Stanford CS229 - Machine Learning (Andrew Ng)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+- [Berkeley CS188: Introduction to AI](https://youtube.com/playlist?list=PLhwIOYE-ldwL6h-peJADfNm8bbO3GlKEy&si=NjPAwRItm2a6R5s0)
 
 ---
 
@@ -36,14 +34,4 @@ This repository contains a curated list of free and open-source resources, inclu
 - [Developer-Y / CS Video Courses (Massive Collection)](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#artificial-intelligence)
 - [owainlewis / Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence?tab=readme-ov-file#courses)
 - [dair-ai / ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-  - [LLMOps: Building Real-World Applications](https://github.com/dair-ai/ML-YouTube-Courses?tab=readme-ov-file#llmops-building-real-world-applications-with-large-language-models)
-
----
-
-## 🎓 Online Courses
-
-- [Coursera – Free Courses (Computer Science, Data Science, Math, etc.)](https://www.coursera.org/courses?query=free&page=3&topic=Computer%20Science&topic=Data%20Science&topic=Math%20and%20Logic&topic=Personal%20Development)
-
----
-
-> 📌 Contributions are welcome! Feel free to submit more course links via issues or pull requests.
+  -
